@@ -11,9 +11,11 @@
 
 ## Lists
 - ordered, mutable, allows duplicate
+  - List = []
 
-## Tupes
-
+## Tuples
+- ordered, imtable, allows duplicate elements
+  - Tuples = ("",)
 
 ## Dictionaries
 
