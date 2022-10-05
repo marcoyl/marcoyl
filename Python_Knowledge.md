@@ -18,5 +18,9 @@
   - Tuples = ("",)
 
 ## Dictionaries
-
+- Key-Values pairs, Unordered, Mutable
+  - mydicts = {"":"" , "":""}
+  
 ## Sets
+- unordered, mutable, no duplicates
+  - myset = {}
